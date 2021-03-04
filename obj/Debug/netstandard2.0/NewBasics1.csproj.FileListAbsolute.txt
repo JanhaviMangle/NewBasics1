@@ -1,0 +1,9 @@
+C:\Training\c sharp\NewBasics1\NewBasics1\bin\Debug\netstandard2.0\NewBasics1.deps.json
+C:\Training\c sharp\NewBasics1\NewBasics1\bin\Debug\netstandard2.0\NewBasics1.dll
+C:\Training\c sharp\NewBasics1\NewBasics1\bin\Debug\netstandard2.0\NewBasics1.pdb
+C:\Training\c sharp\NewBasics1\NewBasics1\obj\Debug\netstandard2.0\NewBasics1.AssemblyInfoInputs.cache
+C:\Training\c sharp\NewBasics1\NewBasics1\obj\Debug\netstandard2.0\NewBasics1.AssemblyInfo.cs
+C:\Training\c sharp\NewBasics1\NewBasics1\obj\Debug\netstandard2.0\NewBasics1.csproj.CoreCompileInputs.cache
+C:\Training\c sharp\NewBasics1\NewBasics1\obj\Debug\netstandard2.0\NewBasics1.dll
+C:\Training\c sharp\NewBasics1\NewBasics1\obj\Debug\netstandard2.0\NewBasics1.pdb
+C:\Training\c sharp\NewBasics1\NewBasics1\obj\Debug\netstandard2.0\NewBasics1.csprojAssemblyReference.cache
